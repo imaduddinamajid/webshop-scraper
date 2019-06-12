@@ -4,6 +4,15 @@
 
 This is Scrapy's spider to scrape product information from a webshop site.
 
+The script will go to product detail from the product list
+
+![image](img/product_list.png)
+
+
+And scrape the product information. 
+
+![image](img/details.png)
+
 ## Setup
 
 ### Installation Requirements
