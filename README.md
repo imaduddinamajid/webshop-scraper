@@ -8,8 +8,9 @@ This is Scrapy's spider to scrape product information from a webshop site.
 
 ### Installation Requirements
 
-pyOpenSSL>=19.0.0
-Scrapy>=1.6.0
+* Python >= 3.7.3
+* pyOpenSSL>=19.0.0
+* Scrapy>=1.6.0
 
 Install required Python packages by the following command:
 
